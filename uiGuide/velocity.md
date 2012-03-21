@@ -30,3 +30,5 @@ Output: 3
 * toDouble() - Converts a number into a double
 
 ----------------------
+
+
